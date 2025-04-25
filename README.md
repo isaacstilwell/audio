@@ -1,1 +1,3 @@
-# audio
+# Isaac's bin of stuff
+
+Misc. files I used in my projects...
