@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Microsoft Sans Serif';
-    src: url('MicrosoftSansSerif.woff2') format('woff2'),
-        url('MicrosoftSansSerif.woff') format('woff');
+    src: url('https://isaacstilwell.github.io/bin/MicrosoftSansSerif.woff2') format('woff2'),
+        url('https://isaacstilwell.github.io/bin/MicrosoftSansSerif.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
